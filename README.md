@@ -19,9 +19,9 @@ Make sure to follow **Qwiklabs' Terms of Service** and **YouTube’s Community G
 ### 🚨 Copy and run the following commands in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/Cloud%20Spanner%3A%20Qwik%20Start/devcode102.sh
-sudo chmod +x devcode102.sh
-./devcode102.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Cloud%20Spanner%3A%20Qwik%20Start/techcps102.sh
+sudo chmod +x techcps102.sh
+./techcps102.sh
 
 ```
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
